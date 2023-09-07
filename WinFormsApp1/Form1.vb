@@ -8,4 +8,8 @@
         MsgBox("tu gfa en 4 :3")
 
     End Sub
+
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        MsgBox("hola mundo")
+    End Sub
 End Class
