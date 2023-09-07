@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mshad\\Downloads\\ProyectosBlazor\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
+      "projectUniqueName": "C:\\Users\\mshad\\Downloads\\ProyectosBlazor\\practica\\WinFormsApp1\\WinFormsApp1.vbproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\mshad\\Downloads\\ProyectosBlazor\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
+      "projectPath": "C:\\Users\\mshad\\Downloads\\ProyectosBlazor\\practica\\WinFormsApp1\\WinFormsApp1.vbproj",
       "packagesPath": "C:\\Users\\mshad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mshad\\Downloads\\ProyectosBlazor\\WinFormsApp1\\WinFormsApp1\\obj\\",
+      "outputPath": "C:\\Users\\mshad\\Downloads\\ProyectosBlazor\\practica\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mshad\\AppData\\Roaming\\NuGet\\NuGet.Config",
