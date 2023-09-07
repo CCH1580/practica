@@ -8,19 +8,19 @@
     "net7.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mshad\\.nuget\\packages\\": {}
+    "C:\\Users\\lopez\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mshad\\Downloads\\ProyectosBlazor\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
+      "projectUniqueName": "C:\\hector\\practica\\WinFormsApp1\\WinFormsApp1.vbproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\mshad\\Downloads\\ProyectosBlazor\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
-      "packagesPath": "C:\\Users\\mshad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mshad\\Downloads\\ProyectosBlazor\\WinFormsApp1\\WinFormsApp1\\obj\\",
+      "projectPath": "C:\\hector\\practica\\WinFormsApp1\\WinFormsApp1.vbproj",
+      "packagesPath": "C:\\Users\\lopez\\.nuget\\packages\\",
+      "outputPath": "C:\\hector\\practica\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mshad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lopez\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,7 +65,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
